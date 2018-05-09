@@ -1,0 +1,75 @@
+Type,Var,Variable,Question
+QuanDiscrete,var1,img1.jpg,What is the type of variable on the X-axis?
+QuanDiscrete,var2,img2.png,What is the type of variable on the X-axis?
+QuanDiscrete,var3,img3.jpg,What is the type of variable on the X-axis?
+QuanDiscrete,var4,img4.jpg,What is the type of variable on the X-axis?
+QuanDiscrete,var5,img5.jpg,What is the type of variable on the X-axis?
+QuanDiscrete,var6,img6.jpg,What is the type of variable on the X-axis?
+QuanDiscrete,var7,img7.jpg,What is the type of variable on the Y-axis?
+QuanDiscrete,var8,img8.gif,What is the type of variable on the X-axis?
+QuanDiscrete,var9,img9.jpg,What is the type of variable on the Y-axis?
+QuanDiscrete,var10,img10.gif,What is the type of variable on the X-axis?
+QuanDiscrete,var11,img11.gif,What is the type of variable on the X-axis?
+QuanDiscrete,var12,img12.jpg,What is the type of variable on the X-axis?
+QuanDiscrete,var13,img12.jpg,What is the type of the variable on the Y-axis?
+QuanContinuous,var14,img13.png,What is the type of variable shown in blue color?
+QuanContinuous,var15,img14.png,What is the type of variable on the X and Y-axis?
+QuanContinuous,var16,img15.png,What is the type of variable on the X-axis?
+QuanContinuous,var17,img15.png,What is the type of variable on the Y-axis?
+QuanContinuous,var18,img16.png,What is the type of variable on the X-axis?
+QuanContinuous,var19,img16.png,What is the type of variable on the Y-axis?
+QuanContinuous,var20,img17.gif,What is the type of variable on the Y-axis?
+QuanContinuous,var21,img18.png,What is the type of variable on the X and Y -axis?
+QuanContinuous,var22,img19.jpg,What is the type of variable on the Y-axis?
+QuanContinuous,var23,img20.jpg,What is the type of variable on the X and Y-axis?
+QuanContinuous,var24,img21.png,What Type of Variable is the total height of the bars?
+QuanContinuous,var25,img22.jpg,What is the type of variable in blue color?
+QuanContinuous,var26,img22.jpg,What is the type of variable in orange color?
+QuanContinuous,var27,img23.png,What is the type of variable on the X and Y-axis?
+QuanContinuous,var28,img24.png,What is the type of variable in blue?
+QuanContinuous,var29,img24.png,What is the type of variable in red?
+QuanContinuous,var30,img25.png,What is the type of variable on the Y-axis?
+QuanContinuous,var31,img1.jpg,What is the type of variable in red?
+QuanContinuous,var32,img1.jpg,What is the type of variable in blue?
+QuanContinuous,var33,img2.png,What is the type of the variable on the Y-axis?
+QuanContinuous,var34,img3.jpg,What is the type of the variable on the Y-axis?
+QuanContinuous,var35,img5.jpg,What is the type of the variable in orange?
+QuanContinuous,var36,img5.jpg,What is the type of the variable in blue?
+QuanContinuous,var37,img11.gif,What is the type of variable on the Y-axis?
+QuanContinuous,var38,img13.png,What is the type of variable shown in red color?
+QuanContinuous,var39,img23.png,What is the type of variable depth?
+QualNominal,var40,img14.png,What is the type of variable in legend?
+QualNominal,var41,img20.jpg,What is the type of variable in legend?
+QualNominal,var42,img21.png,What is the type of variable referenced in legend?
+QualNominal,var43,img3.jpg,"What type of variable is ""Control"" vs ""Treated""?"
+QualNominal,var44,img26.jpg,"What type of variable is ""Challengers"" vs ""Champions""?"
+QualNominal,var45,img27.jpg,What is the type of variable shown in the pie chart?
+QualNominal,var46,img28.png,What is the type of variable shown in the two plots?
+QualNominal,var47,img29.png,What is the type of variable on the X-axis?
+QualNominal,var48,img30.png,What is the type of variable tastes?
+QualNominal,var49,img31.png,What is the type of variable survived?
+QualNominal,var50,img31.png,What is the type of variable age?
+QualNominal,var51,img32.png,What is the type of variable on the X-axis?
+QualNominal,var52,img33.jpg,What is the variable type of investment type?
+QualNominal,var53,img34.png,What is the type of variable in the legend?
+QualNominal,var54,img35.jpg,What is the type of variable on the X-axis?
+QualNominal,var55,img36.png,What is the type of variable on the X-axis?
+QualNominal,var56,img37.png,What is the type of variable in the legend?
+QualNominal,var57,img38.png,What is the type of variable on the X-axis?
+QualNominal,var58,img39.jpg,What is the type of variable on the X-axis?
+QualOrdinal,var59,img7.jpg,What is the type of variable on the X-axis?
+QualOrdinal,var60,img9.jpg,What is the type of variable on the X-axis?
+QualOrdinal,var61,img10.gif,What is the type of variable on the Y-axis?
+QualOrdinal,var62,img19.jpg,What is the type of variable on the X-axis?
+QualOrdinal,var63,img23.png,What is the type of variable cut?
+QualOrdinal,var64,img25.png,What is the type of variable on the X-axis?
+QualOrdinal,var65,img40.png,What is the type of variable on the Y-axis?
+QualOrdinal,var66,img41.png,What is the type of variable in the legend?
+QualOrdinal,var67,img42.jpg,What is the variable type shown in the image?
+QualOrdinal,var68,img43.png,What is the type of variable importance?
+QualOrdinal,var69,img44.png,What is the type of variable in the legend?
+QualOrdinal,var70,img45.png,What is the type of variable on the x-axis?
+QualOrdinal,var71,img46.png,What is the type of variable on the y-axis?
+QualOrdinal,var72,img47.png,What is the type of variable in the legend?
+QualOrdinal,var73,img48.jpg,What is the type of variable on the x-axis?
+QualOrdinal,var74,img49.png,What is the type of variable on the y-axis?

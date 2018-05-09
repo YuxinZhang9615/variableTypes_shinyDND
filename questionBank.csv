@@ -1,0 +1,72 @@
+Type,Var,Variable
+QuanDiscrete,Var1,Number of emails
+QuanDiscrete,Var2,Number of tires on a vehicle
+QuanDiscrete,Var3,House's number of bedrooms
+QuanDiscrete,Var4,"Family Size (1,2,3,...)"
+QuanDiscrete,Var5,Number of heads in 5 tosses
+QuanDiscrete,Var6,Sleep time to nearest hour
+QuanDiscrete,Var7,Height rounded to the nearest inch
+QuanDiscrete,Var8,Result of rolling a die
+QuanDiscrete,Var9,Number of siblings
+QuanDiscrete,Var10,Number of classes enrolled
+QuanContinuous,Var11,Birth rate of country
+QuanContinuous,Var12,Heart Rate
+QuanContinuous,Var13,Time
+QuanContinuous,Var14,Distance
+QuanContinuous,Var15,Temperature (Kelvin)
+QuanContinuous,Var16,Rainfall (inches)
+QuanContinuous,Var17,Height (inches)
+QuanContinuous,Var18,Blood Pressure
+QuanContinuous,Var19,Mileage (miles per gallon)
+QuanContinuous,Var20,GPA
+QuanContinuous,Var21,Distance to birth place
+QuanContinuous,Var22,Average life span
+QuanContinuous,Var23,Speed (mph)
+QuanContinuous,Var24,Annual income
+QuanContinuous,Var25,GDP
+QuanContinuous,Var26,Mortality Rate
+QuanContinuous,Var27,Humidity
+QuanContinuous,Var28,Price
+QuanContinuous,Var29,Length (cm)
+QuanContinuous,Var30,Width (inches)
+QuanContinuous,Var31,BMI (Body Mass Index)
+QuanContinuous,Var32,Density
+QuanContinuous,Var33,Volume
+QuanContinuous,Var34,PH value
+QuanContinuous,Var35,Age
+QuanContinuous,Var36,Stock quotes for a stock over days
+QualNominal,Var37,U.S.State
+QualNominal,Var38,Religion
+QualNominal,Var39,Gender
+QualNominal,Var40,Race
+QualNominal,Var41,Eye Color
+QualNominal,Var42,Type of cars
+QualNominal,Var43,Nationality
+QualNominal,Var44,Marital Status
+QualNominal,Var45,TV Channels
+QualNominal,Var46,Genre of music
+QualNominal,Var47,Type of movies
+QualNominal,Var48,Political Affiliations
+QualNominal,Var49,Ethnicity
+QualNominal,Var50,Occupation
+QualNominal,Var51,Brand of Shoe
+QualNominal,Var52,"Month (Jan, Feb, ... , Dec)"
+QualNominal,Var53,School Mascot
+QualNominal,Var54,Blood Type
+QualNominal,Var55,Yes or No
+QualNominal,Var56,"Type of schools (public, private)"
+QualOrdinal,Var57,"The Likert Scale (disagree, ... ,agree)"
+QualOrdinal,Var58,Soldier Rank
+QualOrdinal,Var59,"Air Pollution Index (0-50, ... ,300+)"
+QualOrdinal,Var60,"Age Group (<25, 25-50, 50-80, >80)"
+QualOrdinal,Var61,"Grade in course (A,B,C,D,F)"
+QualOrdinal,Var62,Education Level
+QualOrdinal,Var63,Level of Satisfaction
+QualOrdinal,Var64,Film Rating (5-star scale)
+QualOrdinal,Var65,Social economic class
+QualOrdinal,Var66,Income Categories
+QualOrdinal,Var67,Hurricane Category Level
+QualOrdinal,Var68,"Pain (none,moderate,extreme)"
+QualOrdinal,Var69,Stage of disease
+QualOrdinal,Var70,"T-shirt Size (S,M,L,XL)"
+QualOrdinal,Var71,"Smoking (<3times/d, ... , >10times/d)"
